@@ -1,4 +1,4 @@
-# Codsoft-Task-3-Iris-Flower-classication
+# Codsoft-Task-3-Iris-Flower-Classication
 
 This repository contains a machine learning project focused on classifying the Iris flower species using popular algorithms. The Iris dataset is a well-known dataset in the field of pattern recognition, and this project aims to implement and compare different classification techniques.
 
